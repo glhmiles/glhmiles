@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glhmiles
-- 👀 I’m interested in Financial Analysis and Data Science! 
+- 👀 I’m interested in Data Science! 
 - 🌱 I’m currently learning Python
   
 <!---
