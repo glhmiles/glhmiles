@@ -1,5 +1,4 @@
-## HELLO
-
+## Welcome!
 
 - 👋 Hi, I’m @glhmiles
 - 👀 I’m interested in Data Science! 
